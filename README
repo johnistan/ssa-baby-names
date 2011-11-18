@@ -1,1 +1,9 @@
-While taking the Google Dev's Python course. One of the exercises used Social Security Baby Name Data. I thought it a good exercise to get said data. So here is a python web scraper to get the data. Once I got i had to throw some quick R plot together. They are in the R file.  
+While taking the Google Dev's Python course. One of the exercises used Social Security Baby Name Data. I thought it a good exercise to get said data. So here is a python web scraper to get the data and some quick ggplots to visualize changes in rankings over time. They are in the R file. There are straight forward instructions to change the appropriate variables if you want to examine the declining popularity of the nomenclature attached to your parents greatest mistake.
+
+Written with:
+Python 2.7
+	BeautifulSoup
+	mechanical
+
+R 2.13
+	ggplot2
